@@ -12,6 +12,11 @@ STEPS TO USE THE API:
 4) Make a GET request on localhost:3000/products
 5) The products should be visible
 
+# install dependencies
+```
+npm install
+```
+
 STEPS TO CREATE A NEW PRODUCT: 
 1) start the server using node app.js  or nodemon app.js or npm start.
 2) Open postman
