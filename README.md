@@ -1,5 +1,5 @@
 # E-Commerce-API
-Live: https://ecommerce-api-ainh.onrender.com
+Live: https://ecommerce-api-ainh.onrender.com/products
 
 
 # ABOUT
